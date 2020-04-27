@@ -1,0 +1,45 @@
+.kuba {color: #ff0000;
+       font-size: 40px;
+       font-family: centurygothic;
+       padding-left: 400px;
+       padding-top: 15px;
+       text-shadow: 2px 2px green;
+       letter-spacing: 4px;}
+
+body {background-image: url("kuba.jpg");
+     background-size: 1285px;}
+
+.uvod {padding-top: 250px;
+       opacity: 0.9;}
+
+.tekst {font-size: 20px;
+        font-family:centurygothic;
+        padding-left: 350px;
+        padding-bottom: 15px;
+        background-color: #eaff00;
+         border: solid 1px;
+         border-color: red;}
+
+ .navigacija {background-color: #eaff00;
+ 	          opacity: 0.9;
+              overflow:  hidden;}
+
+ .navigacija a {float: left ;
+                color: #ff0000;
+                text-align: center;
+                 padding-left: 300px;
+                text-decoration: none;
+                font-size: 17px;
+                border: solid 1px;}
+
+ .navigacija a:hover {background-color: #b300ff;
+                      color: #eaff00;} 
+
+ .navigacija a:active {background-color: #00ffe1;
+                       color: #ff00f2}
+
+ .prvitekst {font-size: 30px;
+             font-family: centurygothic;
+             padding-left: 10px;
+             color: white;}
+

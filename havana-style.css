@@ -1,0 +1,40 @@
+.kuba {color: #ff0000;
+       font-size: 40px;
+       font-family: centurygothic;
+       padding-left: 400px;
+       padding-top: 15px;
+       text-shadow: 2px 2px green;
+       letter-spacing: 4px;}
+
+       body {background-image: url("kuba.jpg");
+     background-size: 1285px;}
+
+     body {background-image: url("kuba.jpg");
+     background-size: 1285px;}
+
+.uvod {
+       opacity: 0.9;}
+
+.tekst {font-size: 20px;
+        font-family:centurygothic;
+        padding-left: 350px;
+        padding-bottom: 15px;
+        background-color: #eaff00;
+         border: solid 1px;
+         border-color: red;}
+
+.havana {font-size: 30px;
+       font-family: centurygothic;
+       color: black;}
+
+.HAVANA      {font-size: 40px;
+         color: red;} 
+
+.geografija {font-size: 40px;
+         color: red;} 
+
+.klima {font-size: 40px;
+         color: red;} 
+
+.znamenitosti {font-size: 40px;
+         color: red;}                                      
